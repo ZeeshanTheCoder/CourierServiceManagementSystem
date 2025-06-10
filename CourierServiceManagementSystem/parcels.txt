@@ -1,0 +1,60 @@
+Zeeshan
+Ali
+Karachi
+03001234567
+4
+Normal
+Ali
+Delivered
+2025-06-09 19:29:37
+200
+Zeeshan
+Nabeel
+Lahore
+03021020102
+2
+Express
+Ali
+In Transit
+2025-06-09 19:31:34
+200
+Zeeshan
+Ashir
+Quetta
+03001111222
+5
+Normal
+Ali
+In Transit
+2025-06-09 20:21:32
+250
+Zeeshan
+Faraz
+Hyderabad
+03002222222
+40
+Normal
+Unassigned
+Pending
+2025-06-09 20:23:43
+2000
+Zeeshan
+Talha
+Karachi
+03221010101
+3
+Express
+Unassigned
+Canceled
+2025-06-09 20:52:01
+300
+Zeeshan
+Ashir
+Islamabad
+03222020202
+4
+Express
+Unassigned
+Canceled
+2025-06-09 20:56:23
+400

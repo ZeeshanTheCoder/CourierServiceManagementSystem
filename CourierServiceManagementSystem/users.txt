@@ -1,0 +1,16 @@
+admin
+admin@system.com
+admin
+admin
+Zeeshan
+Zeeshan@gmail.com
+1234
+user
+Ali
+Ali@gmail.com
+12345
+courier
+Bilal
+Bilal@gmail.com
+Bilal123
+user
