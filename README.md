@@ -53,24 +53,44 @@ CourierServiceManagementSystem/
 
 ---
 
-## 📝 How to Run
+## 🛠️ How to Run the Project
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/ZeeshanTheCoder/CourierServiceManagementSystem.git
+### ▶️ On Microsoft Visual Studio 2022
+
+1. **Clone this repository**:
    ```
-2. Move into the project folder:
-   ```bash
-   cd CourierServiceManagementSystem
+   https://github.com/ZeeshanTheCoder/CourierServiceManagementSystem.git
    ```
-3. Compile the project:
-   ```bash
-   g++ main.cpp -o courier
-   ```
-4. Run the program:
-   ```bash
-   ./courier
-   ```
+
+2. **Open Visual Studio**:
+   - Go to `File` → `Clone Repository`, and paste the URL above.
+
+3. **Create a new Console App project**:
+   - `File` → `New` → `Project` → Select `Console App` (C++) → Click `Create`.
+
+4. **Add source files**:
+   - Right-click `Source Files` → `Add` → `Existing Item` → Select `.cpp` files from the cloned repo.
+
+5. **Build & Run**:
+   - Press `Ctrl + F5` or click `Start Without Debugging`.
+
+---
+
+### ▶️ On Dev C++
+
+1. **Download or Clone the repository**:
+   - Download ZIP or use:
+     ```
+     git clone https://github.com/ZeeshanTheCoder/CourierServiceManagementSystem.git
+     ```
+
+2. **Open Dev C++** and create new Console App project.
+
+3. **Replace main file** with your code:
+   - Remove auto-generated code and paste your full `main.cpp` contents or include external files.
+
+4. **Save, Compile & Run**:
+   - Click `Execute` → `Compile & Run` or press `F11`.
 
 ---
 
